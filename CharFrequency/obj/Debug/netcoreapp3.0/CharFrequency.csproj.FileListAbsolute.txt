@@ -1,0 +1,11 @@
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.exe
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.deps.json
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.runtimeconfig.json
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.runtimeconfig.dev.json
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.dll
+D:\dev-env\.net\CharFrequency\bin\Debug\netcoreapp3.0\CharFrequency.pdb
+D:\dev-env\.net\CharFrequency\obj\Debug\netcoreapp3.0\CharFrequency.csprojAssemblyReference.cache
+D:\dev-env\.net\CharFrequency\obj\Debug\netcoreapp3.0\CharFrequency.AssemblyInfoInputs.cache
+D:\dev-env\.net\CharFrequency\obj\Debug\netcoreapp3.0\CharFrequency.AssemblyInfo.cs
+D:\dev-env\.net\CharFrequency\obj\Debug\netcoreapp3.0\CharFrequency.dll
+D:\dev-env\.net\CharFrequency\obj\Debug\netcoreapp3.0\CharFrequency.pdb
