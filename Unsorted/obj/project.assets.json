@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev-env\\.net\\Homework\\Duplicates.csproj",
-      "projectName": "Duplicates",
-      "projectPath": "D:\\dev-env\\.net\\Homework\\Duplicates.csproj",
+      "projectUniqueName": "D:\\dev-env\\.net\\Unsorted\\Majority.csproj",
+      "projectName": "Majority",
+      "projectPath": "D:\\dev-env\\.net\\Unsorted\\Majority.csproj",
       "packagesPath": "C:\\Users\\Andi\\.nuget\\packages\\",
-      "outputPath": "D:\\dev-env\\.net\\Homework\\obj\\",
+      "outputPath": "D:\\dev-env\\.net\\Unsorted\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andi\\AppData\\Roaming\\NuGet\\NuGet.Config",

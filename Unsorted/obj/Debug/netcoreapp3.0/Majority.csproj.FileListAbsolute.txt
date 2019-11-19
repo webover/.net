@@ -1,0 +1,11 @@
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.exe
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.deps.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.runtimeconfig.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.runtimeconfig.dev.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.dll
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Majority.pdb
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Majority.AssemblyInfoInputs.cache
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Majority.AssemblyInfo.cs
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Majority.dll
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Majority.pdb
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Majority.csprojAssemblyReference.cache

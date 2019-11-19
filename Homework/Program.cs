@@ -4,7 +4,7 @@ namespace Homework
 {
     class Duplicates
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter a string for which you want to remove duplicate characters: ");
 
@@ -19,9 +19,9 @@ namespace Homework
         {
             string result = "";
 
-            foreach(char value in input)
+            foreach (char value in input)
             {
-                if(result.IndexOf(value) == -1)
+                if (result.IndexOf(value) == -1)
                 {
                     result += value;
                 }

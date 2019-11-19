@@ -1,0 +1,11 @@
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.exe
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.deps.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.runtimeconfig.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.runtimeconfig.dev.json
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.dll
+D:\dev-env\.net\Unsorted\bin\Debug\netcoreapp3.0\Unsorted.pdb
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Unsorted.csprojAssemblyReference.cache
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Unsorted.AssemblyInfoInputs.cache
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Unsorted.AssemblyInfo.cs
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Unsorted.dll
+D:\dev-env\.net\Unsorted\obj\Debug\netcoreapp3.0\Unsorted.pdb
