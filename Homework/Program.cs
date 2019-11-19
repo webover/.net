@@ -6,9 +6,9 @@ namespace Homework
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
+            Console.Write("Enter a string for which you want to remove duplicate characters: ");
 
-            Console.WriteLine("Your string is: " + input);
+            string input = Console.ReadLine();
 
             string withoutDuplicates = removeDuplicate(input);
 
