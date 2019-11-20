@@ -4,8 +4,8 @@ D:\dev-env\.net\DuplicatesLinkedList\bin\Debug\netcoreapp3.0\DuplicatesLinkedLis
 D:\dev-env\.net\DuplicatesLinkedList\bin\Debug\netcoreapp3.0\DuplicatesLinkedList.runtimeconfig.dev.json
 D:\dev-env\.net\DuplicatesLinkedList\bin\Debug\netcoreapp3.0\DuplicatesLinkedList.dll
 D:\dev-env\.net\DuplicatesLinkedList\bin\Debug\netcoreapp3.0\DuplicatesLinkedList.pdb
-D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.csprojAssemblyReference.cache
 D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.AssemblyInfoInputs.cache
 D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.AssemblyInfo.cs
 D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.dll
 D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.pdb
+D:\dev-env\.net\DuplicatesLinkedList\obj\Debug\netcoreapp3.0\DuplicatesLinkedList.csprojAssemblyReference.cache
