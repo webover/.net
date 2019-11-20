@@ -26,8 +26,8 @@ namespace CharFrequency
                 }
             }
 
-            foreach(KeyValuePair<char, int> keyValuePair in listDictionary)
-            { 
+            foreach (KeyValuePair<char, int> keyValuePair in listDictionary)
+            {
                 Console.WriteLine("Char {0} was counted {1} time{2}", keyValuePair.Key, keyValuePair.Value, (keyValuePair.Value > 1 ? "s" : ""));
             }
         }

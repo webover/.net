@@ -1,0 +1,11 @@
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.exe
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.deps.json
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.runtimeconfig.json
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.runtimeconfig.dev.json
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.dll
+D:\dev-env\.net\ReverseLinkedList\bin\Debug\netcoreapp3.0\ReverseLinkedList.pdb
+D:\dev-env\.net\ReverseLinkedList\obj\Debug\netcoreapp3.0\ReverseLinkedList.csprojAssemblyReference.cache
+D:\dev-env\.net\ReverseLinkedList\obj\Debug\netcoreapp3.0\ReverseLinkedList.AssemblyInfoInputs.cache
+D:\dev-env\.net\ReverseLinkedList\obj\Debug\netcoreapp3.0\ReverseLinkedList.AssemblyInfo.cs
+D:\dev-env\.net\ReverseLinkedList\obj\Debug\netcoreapp3.0\ReverseLinkedList.dll
+D:\dev-env\.net\ReverseLinkedList\obj\Debug\netcoreapp3.0\ReverseLinkedList.pdb

@@ -1,0 +1,11 @@
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.exe
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.deps.json
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.runtimeconfig.json
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.runtimeconfig.dev.json
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.dll
+D:\dev-env\.net\LastWordLength\bin\Debug\netcoreapp3.0\LastWordLength.pdb
+D:\dev-env\.net\LastWordLength\obj\Debug\netcoreapp3.0\LastWordLength.csprojAssemblyReference.cache
+D:\dev-env\.net\LastWordLength\obj\Debug\netcoreapp3.0\LastWordLength.AssemblyInfoInputs.cache
+D:\dev-env\.net\LastWordLength\obj\Debug\netcoreapp3.0\LastWordLength.AssemblyInfo.cs
+D:\dev-env\.net\LastWordLength\obj\Debug\netcoreapp3.0\LastWordLength.dll
+D:\dev-env\.net\LastWordLength\obj\Debug\netcoreapp3.0\LastWordLength.pdb
