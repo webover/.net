@@ -16,7 +16,7 @@ namespace DuplicatesLinkedList
             {
                 var nextNode = startNode;
 
-                Console.WriteLine("Checking for " + startNode.Value);
+                //Console.WriteLine("Checking for " + startNode.Value);
 
                 while (nextNode.Next != null)
                 {
