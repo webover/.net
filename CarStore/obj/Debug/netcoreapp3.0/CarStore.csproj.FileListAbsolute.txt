@@ -1,0 +1,11 @@
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.exe
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.deps.json
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.runtimeconfig.json
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.runtimeconfig.dev.json
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.dll
+D:\dev-env\.net\CarStore\bin\Debug\netcoreapp3.0\CarStore.pdb
+D:\dev-env\.net\CarStore\obj\Debug\netcoreapp3.0\CarStore.csprojAssemblyReference.cache
+D:\dev-env\.net\CarStore\obj\Debug\netcoreapp3.0\CarStore.AssemblyInfoInputs.cache
+D:\dev-env\.net\CarStore\obj\Debug\netcoreapp3.0\CarStore.AssemblyInfo.cs
+D:\dev-env\.net\CarStore\obj\Debug\netcoreapp3.0\CarStore.dll
+D:\dev-env\.net\CarStore\obj\Debug\netcoreapp3.0\CarStore.pdb

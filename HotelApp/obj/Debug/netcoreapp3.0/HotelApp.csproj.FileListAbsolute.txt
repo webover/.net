@@ -1,0 +1,11 @@
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.exe
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.deps.json
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.runtimeconfig.json
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.runtimeconfig.dev.json
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.dll
+D:\dev-env\.net\HotelApp\bin\Debug\netcoreapp3.0\HotelApp.pdb
+D:\dev-env\.net\HotelApp\obj\Debug\netcoreapp3.0\HotelApp.csprojAssemblyReference.cache
+D:\dev-env\.net\HotelApp\obj\Debug\netcoreapp3.0\HotelApp.AssemblyInfoInputs.cache
+D:\dev-env\.net\HotelApp\obj\Debug\netcoreapp3.0\HotelApp.AssemblyInfo.cs
+D:\dev-env\.net\HotelApp\obj\Debug\netcoreapp3.0\HotelApp.dll
+D:\dev-env\.net\HotelApp\obj\Debug\netcoreapp3.0\HotelApp.pdb

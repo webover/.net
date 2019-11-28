@@ -1,0 +1,10 @@
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.exe
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.deps.json
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.runtimeconfig.json
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.runtimeconfig.dev.json
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.dll
+D:\dev-env\.net\Class\bin\Debug\netcoreapp3.0\Class.pdb
+D:\dev-env\.net\Class\obj\Debug\netcoreapp3.0\Class.AssemblyInfoInputs.cache
+D:\dev-env\.net\Class\obj\Debug\netcoreapp3.0\Class.AssemblyInfo.cs
+D:\dev-env\.net\Class\obj\Debug\netcoreapp3.0\Class.dll
+D:\dev-env\.net\Class\obj\Debug\netcoreapp3.0\Class.pdb
