@@ -103,6 +103,8 @@
             var highestLongValue = allUsers.Max(u => u.Address.Geo.Lng);
             User userMaxLong = allUsers.Where(u => u.Address.Geo.Lng == highestLongValue).First();
 
+            Console.WriteLine($"User {userMinLat.Name} has the Address with the lowest latitude");
+
             // 10 - create a new class: public class UserPosts { public User User {get; set}; public List<Post> Posts {get; set} }
             //    - create a new list: List<UserPosts>
             //    - insert in this list each user with his posts only
@@ -134,7 +136,7 @@
 
             // 12 - order users by number of posts
 
-            Console.WriteLine($"Ordering by Number of Posts");
+            Console.WriteLine($"Ordering Descending by Number of Posts");
 
             List<User> usersOrderedByPost = allUsers.OrderByDescending(u => allPosts.Where(p => p.UserId == u.Id).Count()).ToList();
 
